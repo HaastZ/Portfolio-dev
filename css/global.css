@@ -16,5 +16,23 @@
     --gray-300: #292C34;
     --gray-400: #878EA1;
     --gray-500: #C0C4CE;
-    --gray-600: #E2E4E9; 
+    --gray-600: #E2E4E9;
+    /* TEXTOS */
+    --inconsolata: "Inconsolata", sans-serif;
+    --asap: "Asap", sans-serif;
+    --maven-pro: "Maven Pro", sans-serif;
+}
+
+span {
+    color: var(--red);
+    font-family: var(--inconsolata);
+}
+
+p {
+    font-family: var(--maven-pro);
+}
+
+h1, h2, h3 {
+    color: var(--gray-600);
+    font-family: var(--asap);
 }
