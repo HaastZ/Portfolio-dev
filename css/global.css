@@ -17,6 +17,12 @@
     --gray-400: #878EA1;
     --gray-500: #C0C4CE;
     --gray-600: #E2E4E9;
+    --cor-github: #000000;
+    --cor-HTML: #f4470b;
+    --cor-CSS: #0852e9;
+    --cor-javascript: #f1c22d;
+    --cor-react: #72caf8;
+    --cor-node-js: #63b24c;
     /* TEXTOS */
     --inconsolata: "Inconsolata", sans-serif;
     --asap: "Asap", sans-serif;
@@ -36,4 +42,8 @@ p {
 h1, h2, h3 {
     color: var(--gray-600);
     font-family: var(--asap);
+}
+
+li {
+    list-style: none;
 }
