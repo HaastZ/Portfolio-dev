@@ -29,6 +29,7 @@ span {
 }
 
 p {
+    color: var(--gray-500);
     font-family: var(--maven-pro);
 }
 
