@@ -8,3 +8,24 @@
     gap: 8px;
     display: flex;
 }
+
+.services .container {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding-bottom: 120px;
+}
+
+.container .card-services {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--gray-500);
+    border-radius: 20px;
+    gap: 8px;
+    padding: 20px;
+}
+
+.container .card-services img {
+    margin-bottom: 20px;
+    width: 44px;
+}
