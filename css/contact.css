@@ -1,0 +1,16 @@
+.contact {
+    background-image: url(../assets/images/Background_Contacts.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact header span {
+    color: var(--purple);
+}
+
+.contact header {
+    width: 100%;
+    display: flex;
+    padding-top: 128px;
+    gap: 8px;
+}
