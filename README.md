@@ -2,7 +2,7 @@ Este projeto foi um desafio feito durante a formação Full Stack da Rocketseat,
 
 Futuramente vai ser o meu portfólio de desenvolvedor
 
-projeto hospedado:
+projeto hospedado: https://portfolio-dev-kohl.vercel.app/
 
 # Tecnologias Utilizadas
 - HTML
