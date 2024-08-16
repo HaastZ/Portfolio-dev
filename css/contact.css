@@ -21,6 +21,7 @@
     flex-direction: column;
     align-items: center;
     gap: 16px;
+    padding-bottom: 200px;
 }
 
 .links .card-contact {
@@ -34,8 +35,30 @@
     border-radius: 15px;
 }
 
+.card-contact:nth-child(1):hover {
+    border: 1px solid #087fb8;
+}
+
+.card-contact:nth-child(2):hover {
+    border: 1px solid #08c50f;
+}
+
+.card-contact:nth-child(3):hover {
+    border: 1px solid var(--cor-github);
+}
+
+.card-contact:nth-child(4):hover {
+    border: 1px solid #f1493c;
+}
+
+
 .links .card-contact .rede {
     display: flex;
     gap: 12px;
     align-items: center;
+}
+
+.links .card-contact .rede img {
+    width: 23px;
+    border-radius: 20px;
 }
