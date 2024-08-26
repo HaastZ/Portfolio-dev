@@ -94,25 +94,25 @@ header p:nth-child(3) {
 }
 
 .tecnology li:nth-child(1):hover {
-    border: 1px solid var(--cor-github)
+    outline: 1px solid var(--cor-github)
 }
 
 .tecnology li:nth-child(2):hover {
-    border: 1px solid var(--cor-HTML)
+    outline: 1px solid var(--cor-HTML)
 }
 
 .tecnology li:nth-child(3):hover {
-    border: 1px solid var(--cor-CSS)
+    outline: 1px solid var(--cor-CSS)
 }
 
 .tecnology li:nth-child(4):hover {
-    border: 1px solid var(--cor-javascript)
+    outline: 1px solid var(--cor-javascript)
 }
 
 .tecnology li:nth-child(5):hover {
-    border: 1px solid var(--cor-react)
+    outline: 1px solid var(--cor-react)
 }
 
 .tecnology li:nth-child(6):hover {
-    border: 1px solid var(--cor-node-js)
+    outline: 1px solid var(--cor-node-js)
 }
