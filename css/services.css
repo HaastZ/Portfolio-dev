@@ -28,4 +28,13 @@
 .container .card-services img {
     margin-bottom: 1.25rem;
     width: 2.75rem;
+    border-radius: 20px;
+    gap: 0.5rem;
+    padding: 1.25rem;
+}
+
+.container .card-services img {
+    margin-bottom: 1.25rem;
+    width: 2.75rem;
+
 }

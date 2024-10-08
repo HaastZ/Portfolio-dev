@@ -60,8 +60,6 @@ header h1 {
     color: var(--gray-600);
     font-weight: 700;
     font-size: 3.5rem;
-    line-height: 120%;
-    text-align: center;
 }
 
 header p:nth-child(3) {
