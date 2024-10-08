@@ -1,0 +1,31 @@
+.services {
+    background-color: var(--gray-100);
+}
+
+.services header {
+    padding-block: 5.5rem;
+    width: 100%;
+    gap: 0.5rem;
+    display: flex;
+}
+
+.services .container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    padding-bottom: 7.5rem;
+}
+
+.container .card-services {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--gray-500);
+    border-radius: 1.25rem;
+    gap: 0.5rem;
+    padding: 1.25rem;
+}
+
+.container .card-services img {
+    margin-bottom: 1.25rem;
+    width: 2.75rem;
+}
