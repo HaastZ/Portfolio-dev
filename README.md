@@ -1,7 +1,7 @@
 - Este projeto foi um desafio feito durante a formação Full Stack da Rocketseat.
 - o projeto contém 4 seções sendo elas introdução, projetos, serviços e contato
 - Futuramente vai ser o meu portfólio de desenvolvedor
-- projeto hospedado: https://portfolio-dev-kohl.vercel.app/
+- projeto hospedado: clique [aqui](https://portfolio-dev-kohl.vercel.app/)
 - Consulte o figma do projeto clicando [aqui](https://www.figma.com/design/GoSBXnXRyWCmPDoyZep18M/Portfolio-Dev-(Community)?t=1Ri5YidLb1u2ONMt-0)
 
 # Tecnologias e Recursos Utilizados
